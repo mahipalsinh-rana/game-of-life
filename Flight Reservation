@@ -1,0 +1,4 @@
+Dialod("login").Activate
+Dialog("Login").Winedit("password").Set "mercury"
+Dailog("Login").Winedit("Agentname'). Set "Admin"
+Dialog("Login").Winbutton("ok").click
